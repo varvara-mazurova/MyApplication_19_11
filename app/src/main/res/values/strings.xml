@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application_19_11</string>
+    <string name="enter">Войти</string>
+    <string name="pass">Пароль</string>
+    <string name="yes2">YES</string>
+    <string name="no2">NO</string>
+    <string name="login1">Логин</string>
+    <string name="need_log">Введите логин</string>
+    <string name="need_pass">Введите пароль</string>
+</resources>
